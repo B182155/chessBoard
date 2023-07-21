@@ -1,0 +1,22 @@
+/* .chess {
+  height: 640px;
+  width: 640px;
+} */
+
+.rows {
+  display: flex;
+  flex-direction: row;
+  /* gap: 2px; */
+}
+
+.white {
+  background: #f8f7f7;
+  height: 80px;
+  width: 80px;
+}
+
+.black {
+  background: #131212;
+  height: 80px;
+  width: 80px;
+}
